@@ -1,4 +1,4 @@
-## FlightiGo
+# FlightiGo
 Flight reservation system 
 
 
